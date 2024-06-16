@@ -59,7 +59,7 @@ npm start
 - Delete a record: DELETE
 
 ## Video Walkthrough
-
+Link: https://drive.google.com/file/d/1eCIiV5xXHHnwyaPAiKJQbHksTyK_d47b/view
 
 
 ## Credits
